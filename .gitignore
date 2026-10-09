@@ -1,0 +1,16 @@
+# SwiftPM 构建产物
+.build/
+build/
+
+# 系统文件
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xcuserstate
+
+# 编辑器
+.vscode/
+.idea/
+.swiftpm/
